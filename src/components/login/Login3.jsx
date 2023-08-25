@@ -2,11 +2,11 @@ import React from 'react'
 
 const Login3 = () => {
     return <div className='  h-screen flex justify-center items-center p-10'>
-        <div className='bg-gray-300 pt-16  md:pt-0   md:h-full   sm:w-full   flex justify-center items-start flex-wrap'>
+        <div className='bg-gray-200 pt-16  md:pt-0   md:h-full   sm:w-full   flex justify-center items-start flex-wrap'>
 
 
-            <div className='bg-[url("https://images.unsplash.com/photo-1690035938446-935f02e34024?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDEwOHxpVUlzblZ0akIwWXx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60")] border-[15px]  border-t-0  flex justify-between items-center text-green-900 flex-1 bg-no-repeat bg-cover  h-full' >
-                <div className=' w-full  mt-9'>
+            <div className=' bg-[url("https://images.unsplash.com/photo-1690035938446-935f02e34024?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDEwOHxpVUlzblZ0akIwWXx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60")] border-[15px]   flex justify-between items-center text-green-900 flex-1 bg-no-repeat bg-cover  h-full' >
+                <div className=' w-full rounded-lg mt-9'>
                     <div className='sm:ml-[5%]   mx-4'>
                         <h1 className='font-semibold  sm:text-3xl text-2xl'>Get started</h1>
                         <p>Create your Account Now</p>
